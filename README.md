@@ -1,5 +1,4 @@
-Mapping mobile service usage diversity in cities
-========================================================================
+## Mapping mobile service usage diversity in cities
 
 ## Description
 
@@ -75,13 +74,27 @@ Table S1, Table 2 and Figure 7.
 
 ## References
 
-[1] Lenormand M (2023) [Mapping mobile service usage diversity in cities](https://arxiv.org/abs/2311.06269). *NetMob 2023*, Madrid, Spain.  
+[1] Lenormand M (2023) [Mapping mobile service usage diversity in cities](https://arxiv.org/abs/2311.06269). 
+*NetMob 2023*, Madrid, Spain.  
 
 ## Citation
 
 If you use this code, please cite:
 
-[1] Lenormand M (2023) [Mapping mobile service usage diversity in cities](https://arxiv.org/abs/2311.06269). *NetMob 2023*, Madrid, Spain.  
+[1] Lenormand M (2023) [Mapping mobile service usage diversity in cities](https://arxiv.org/abs/2311.06269). 
+*NetMob 2023*, Madrid, Spain.  
 
 If you need help, find a bug, want to give us advice or feedback, please contact me!
 You can reach us at maxime.lenormand[at]inrae.fr.
+
+## Repository mirrors
+
+This repository is mirrored on both GitLab and GitHub. You can access it via the following links:
+
+- **GitLab**: [https://gitlab.com/maximelenormand/mobile-service-diversity](https://gitlab.com/maximelenormand/mobile-service-diversity)  
+- **GitHub**: [https://github.com/maximelenormand/mobile-service-diversity](https://github.com/maximelenormand/mobile-service-diversity)  
+
+The repository is archived in Software Heritage:
+
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/maximelenormand/mobile-service-diversity/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/maximelenormand/mobile-service-diversity)
+
