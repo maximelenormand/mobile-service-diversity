@@ -84,8 +84,7 @@ If you use this code, please cite:
 [1] Lenormand M (2023) [Mapping mobile service usage diversity in cities](https://arxiv.org/abs/2311.06269). 
 *NetMob 2023*, Madrid, Spain.  
 
-If you need help, find a bug, want to give us advice or feedback, please contact me!  
-You can reach me at maxime.lenormand[at]inrae.fr.
+If you need help, find a bug, want to give us advice or feedback, please contact me!
 
 ## Repository mirrors
 
