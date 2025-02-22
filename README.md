@@ -85,7 +85,7 @@ If you use this code, please cite:
 *NetMob 2023*, Madrid, Spain.  
 
 If you need help, find a bug, want to give us advice or feedback, please contact me!
-You can reach us at maxime.lenormand[at]inrae.fr.
+You can reach me at maxime.lenormand[at]inrae.fr.
 
 ## Repository mirrors
 
