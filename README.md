@@ -72,7 +72,7 @@ Figure S2.
 ***2_Clustering_Analysis.R*** is used to produce the Figure 5, Figure 6, 
 Table S1, Table 2 and Figure 7.
 
-## References
+## Reference
 
 [1] Lenormand M (2023) [Mapping mobile service usage diversity in cities](https://arxiv.org/abs/2311.06269). 
 *NetMob 2023*, Madrid, Spain.  
