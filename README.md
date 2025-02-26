@@ -1,4 +1,4 @@
-## Mapping mobile service usage diversity in cities
+# Mapping mobile service usage diversity in cities
 
 ## Description
 
